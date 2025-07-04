@@ -1,20 +1,25 @@
-# 📰 DailyBuzz - Fri Jul 04 2025
+# 📰 DailyBuzz – Fri, Jul 4, 2025
 
 ---
-
 ## 🚀 Top Technology News
 
-
----
+1. [Samsung continues to half-heartedly adopt Qi2 as Galaxy Z Fold 7 and Flip 7 cases leak [Gallery] - 9to5Google](https://news.google.com/rss/articles/CBMieEFVX3lxTE83VEhQbHYwdXBSMVBxalFXXzYyWFpaZ21Qc2xyTHc4YWcyUkFac0tiSjZkZUZHQXoxZjlYN2U4dDlWaEt0YjMyWGFrY2xoYWExc3lkZjA5QkxMUnp5cFVNaktfZEFGVUJJZGp4c2lVVmZCQk1HUXB1dA?oc=5)
+2. [Google Pixel Watch 4 case colors and new band options leak - 9to5Google](https://news.google.com/rss/articles/CBMic0FVX3lxTFBLdmpKejFpSVlNcmpwR3p0eXRRUlNpY19WOXZUMmdjVHkxVDZOTFJpR2FuNWtRRGk4QzVNek5SQVA1X1F1QUlkUHdfVDVXRXZRdVZFMnhCNFJHX0VLUTRickVkc2tqMURmS0MwNGo1RDloRkE?oc=5)
+3. [Samsung seems to have leaked its own trifold phone design - The Verge](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS1JHYlczd0Y5Umx2azBfeXJEN3JnYnRTMUVXQUctMTU0NXVYU3Nqbjk1aE9YNE5mRXFzcW5jRzFhelROTV94dGhvMGtCa1VHaVVNVmhUclZNQ3lTV3ptRkZZMTUtRy1FUXQ0TWVfZy1iZ0NaeGNzM3JTT21KMWp6bVRZN0xScHhzUUpj?oc=5)
+4. [Leakers clash over what Google's thinking for Pixel 10 color options - Android Authority](https://news.google.com/rss/articles/CBMia0FVX3lxTE9OOWxnX0NwQTNWcjV1TWNRLWt5anBkVFFOaWVWVW0wa0RLN2htZ2ZxcEtFOWpQYk90SE5ScHQxOEk3bFM2d0NlYXYyS1k2cjRiekh2THpyOHIwV3p3eDZBSnhJaXRaZk95X1d3?oc=5)
+5. [Samsung's One UI 8 will add a cool new trick to still photos - Android Police](https://news.google.com/rss/articles/CBMie0FVX3lxTE0ydThVRzUxN2NuWmN5LXRqMkNzOWQ5MXB5X1plcDVsRllHdjBEMUxxa3JPWXFCZzl4LURlcmcwOGt3VTNQWU9qRG5kSEhWUllEYXBGV1NJdXpkM3FtaDYycHk5VEVYN2NXNFcwMzRLYkpVVWQ4a1pTQ1pNNA?oc=5)
 
 ## 🌍 World Headlines
 
-
----
+1. [Russia launches record number of drones at Ukraine after latest Trump-Putin phone call - CNN](https://news.google.com/rss/articles/CBMijgFBVV95cUxQbjh2aG1pOWNaeHg3dGxzZTFYNGdjS2E4d3NDbTZidlpPOWJyeXBjQWhBRHFDVjVTY2plVUNMY0RPVE5vdVdOVVNxTk82S2Vza0piUWVpWmZhWjhxSEpDWnZyZm8xQW84emxlZmE4MzJNd3hGOVNfX2VXeTdaMEtOOEJ4VXhfd0xFRVJnMERR0gGTAUFVX3lxTE13ZTB1MktkdHpXRVM2eU5KWVd0Q2MyWDJLM1JFMHNHNlpJeWk1a2trckJCN3Uzc2JqNzdyaEJFS1FJV0xvVEZUM0VxZllRTWtJTDhLZmlSUm0tUkJsUnVJbTFnQ3VLRGZUNDlyVDZ6VlpMV2IwZ3FVSXRXS2t0c3lDUFVXa3R0aW03UGR0NW1EQXNxcw?oc=5)
+2. [Trump says Hamas response to Gaza ceasefire-hostage deal should come in 24 hours - The Times of Israel](https://news.google.com/rss/articles/CBMisAFBVV95cUxQc1F6VjhIazc0dmdQYXZBR1dJd1BoakJ5SjI0cDVRSU4yN1ZZQ21aaENTNHFoMFVrLTNvTHVwblY2UWRNYUZGbWdBQVJhcnowNkN3V3NOOHE0WE14Yk14WHZkMWJGMDVjZzdSMUE2N3VsbEU0d2M5NUhkaTVpUV85Y2tCWHFNRVN2bFpJOGswVGxOTDFyTlVHTldQOWFYeE91dW8zNE5UcGRzVWsxd2xGT9IBtgFBVV95cUxOaktwTi1kYWozRXM4cGpLZUxkUGxPQzR1ajZ2WG4yRTNpeWZGX2dvVzhnZFZiZFB2TUVYS2tJU0dnSzJsRjdSLW8tcENmRzJTdS1ua1l6dERJYnItWUtTT0haTzlDa2ZRalhUM29WaTlJd2xxSHJBZUNXY21KNklUanZvOGxybXZJbU11bTk3VE1PZGFxYVUwQUVwWkJrUHg2UTJFd2tNVENxdGxndEY4ckFFbTVjZw?oc=5)
+3. [North Korean man crosses heavily fortified DMZ border to South Korea - Al Jazeera](https://news.google.com/rss/articles/CBMirAFBVV95cUxNMEk1eHpsU0xTWUM0OVFnX3B0OTVVSGVnSWp6cE5QTUp4d3BySGpxSVQ0dk5USTNiZ2ZCNmNqeVN5V3BJY1pWV0dUZl94ZjZNTEFyVFBnTWtqc080a2NWQjgtSHM5QUc2UGlzbG5RQnNaRkdoRXFTeUtjaE4zUWh6VkFoNmM5R2FsTmlPMjM4b3Q2WEFHNkljd0c5WXB4SUpyY1BfTDFMQmxqS1pC0gGyAUFVX3lxTE5qX2p4Nks3TElTQmpVWHpZMDlEcW9SOXljQzR2anFqUjhicTNDWUtBeDljcUY4a2czOUlPUnFFRzEwbktQVnFMZlNBQWx3M2wzNTdvRkNxc1NWckI1d3h6NEZ1LU1Kd0otNWl5djREQ0hSY1NFTkpoYnlERWh4NHZaLXR1Z1VhVGI1bUhJM0k5X2VlOFR2Q2ZlNFJlQ2liR1ZvQnFfc0NiTjRCVUppQTA4R0E?oc=5)
+4. [Firefighters race to contain wildfires in Greece as thousands evacuated - NPR](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMktmdjJtLUZFWW1VTGtsMWFzZTZtWUdKakhOcmpLN3ZKQnJkaWx0WHFvMEZHRFA0WlRXOFNhUFdPMnoxLXFPMWNjYl92N3hNNmRZaVBlVTZ6OVY5R2JvT1pjRm1uQ1BfZHMwaXhzcnUyZU9RWmhzSkRJY0ZWOXVxMms2STROQVo4?oc=5)
+5. [Organization denies AP report that US contractors at its Gaza food distribution sites used live ammo - AP News](https://news.google.com/rss/articles/CBMioAFBVV95cUxQOTJPWmVKMGtTc2tLMFVYMmlsMzBuM1ZzanlqME1memlZZFBFYTRVeE5rTEhkd0RoeFR1cm9PcHp6WGYzS3FGRWxnZWJ6cTJRSUxpNGxZX200VUp1MmoxTUwzMGRNVk9MNVZtRklqRXlFZUpfSk1KR2Z0QWI2enRwX0NsUThqSHZKTmZNZEhXMFZnNTdJRXBlcWxVRFFoVFRK?oc=5)
 
 ## 💰 Business Insights
 
 
 ---
 
-_Generated daily by DailyBuzz_
+<sub>Last updated at 02:20 PM · Generated daily by **DailyBuzz**</sub>
