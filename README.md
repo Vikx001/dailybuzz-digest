@@ -7,7 +7,7 @@
 2. [Google Pixel Watch 4 case colors and new band options leak - 9to5Google](https://news.google.com/rss/articles/CBMic0FVX3lxTFBLdmpKejFpSVlNcmpwR3p0eXRRUlNpY19WOXZUMmdjVHkxVDZOTFJpR2FuNWtRRGk4QzVNek5SQVA1X1F1QUlkUHdfVDVXRXZRdVZFMnhCNFJHX0VLUTRickVkc2tqMURmS0MwNGo1RDloRkE?oc=5)
 3. [Leakers clash over what Google's thinking for Pixel 10 color options - Android Authority](https://news.google.com/rss/articles/CBMia0FVX3lxTE9OOWxnX0NwQTNWcjV1TWNRLWt5anBkVFFOaWVWVW0wa0RLN2htZ2ZxcEtFOWpQYk90SE5ScHQxOEk3bFM2d0NlYXYyS1k2cjRiekh2THpyOHIwV3p3eDZBSnhJaXRaZk95X1d3?oc=5)
 4. [One UI 8 contains files confirming Samsung's tri-fold phone - SamMobile](https://news.google.com/rss/articles/CBMimgFBVV95cUxPemVTalVHbWVqeS15c05JWHR6UnV5SFZOWlFIWWxSOUVLbTNyM1NaSUtkMFI0a0FuY3U5S1hYNG9aRlJpbEZiWGl3eTVQNzZrNk9hUWdFdFZXc1VGRzU1RUNQMGpJLVlRa2o5VDdTM1N5ampXcE9pX3c0aW55OFRzREF0eTlzYUNjbC1kT0x1U21xaU90SC1mTW5n?oc=5)
-5. [Samsung's One UI 8 will add a cool new trick to still photos - Android Police](https://news.google.com/rss/articles/CBMie0FVX3lxTE0ydThVRzUxN2NuWmN5LXRqMkNzOWQ5MXB5X1plcDVsRllHdjBEMUxxa3JPWXFCZzl4LURlcmcwOGt3VTNQWU9qRG5kSEhWUllEYXBGV1NJdXpkM3FtaDYycHk5VEVYN2NXNFcwMzRLYkpVVWQ4a1pTQ1pNNA?oc=5)
+5. [We confirmed Nintendo’s Switch 2 TV dock supports VRR — so why doesn’t it work with Switch 2? - The Verge](https://news.google.com/rss/articles/CBMikgFBVV95cUxPWDVob0dfM2RSbFVwWTgydUYtLU1IVVNJNnNJalFfSEU5eXJUQ0ktTmpPcS1aaF9DMkhmX3RiMXZCNUZ0MHJRS3dpWWduenBaYmR0TFJ1OXp5WGdWLTl2SlhPTlp3eGw4LXhOSlpCSkJTV3hEY2dTb3o3VFBMU0NTRll5U2dEMWdOblJ5X0JRUXlHdw?oc=5)
 
 ## 🌍 World Headlines
 
@@ -22,4 +22,4 @@
 
 ---
 
-<sub>Last updated at 02:28 PM · Generated daily by **DailyBuzz**</sub>
+<sub>Last updated at 02:40 PM · Generated daily by **DailyBuzz**</sub>
