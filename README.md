@@ -1,25 +1,25 @@
-# 📰 DailyBuzz – Sun, Jul 6, 2025
+# 📰 DailyBuzz – Mon, Jul 7, 2025
 
 ---
 ## 🚀 Top Technology News
 
-1. [How Brex is keeping up with AI by embracing the ‘messiness’ - TechCrunch](https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlQyU2lobC1uUG9VZVZ5OXR5YndOeUNlV3ozdW5VTjZEaE5DRjIxSTkySDJFbDd6RE1yLS1KSTJGMjZTd0x5UWdpZ0VXUXpqa0wxOHlmUlB0aHNUb2R3MFdhbUN5R0h2SjJGWjR6bXVYWk5sT01xTGJWODRtVUFOMGJTVmtJQWtzczNHenhPREN3aVdPQmk0?oc=5)
-2. [The best Prime Day Apple deals on iPads, MacBooks, AirPods and more - Engadget](https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHFLUEJ3Y0pVX2l3THlJQ1R4YkU0ckNYWnJQUmFEZVRxTHB0SkR1eUhLWHF1aXB1WHZYTXlFQlVFenkya2VkMXY2b25fS3lEMlVVZkRTLUhibDhkMm5CQlQtMmJYUmw2bTZYdVFsMHY4TENUX2V2d2pWSkVkRm5zdjU1V0M0LVhGSGdObG9LZlZpV083VFJza3NOM2lqaFRuaE1OYUZxc2VoQ2NWWUpmMA?oc=5)
-3. [Three great One UI 8 features that highlight your Sunday - SamMobile](https://news.google.com/rss/articles/CBMiggFBVV95cUxNdC1uS2lucFBDSWhHU1BzU1ltNlo3U1FXcDhTbUlfWVhIRmdzNnpJOGJpMWI4ZWlqaTBTbmVRd0dZTlk5anBlclJtYXBoWjdySHhHejN6dUpzendHel9fRW10WWxkaXdnSXEySm9xRk9TTTZBUzdzSkhPQ0xWV0NTTE1B?oc=5)
-4. [Prime Day Anker Deals: Over 30 Offers on Top-Rated Mobile, Home and Security Tech - CNET](https://news.google.com/rss/articles/CBMibEFVX3lxTE40MW9nLUswQmQ0Z0JMaFN5ZjhDVlRfd1hROE5SRTMySE1WZm9LaGJHM1ZQZ19yWXozNFFTeDhRR3A2emJCanlwbjVrNVJoQThRRFNEZFNCRHpNN3o5SkJIclFJYlc4bjlPbnNidQ?oc=5)
-5. [After 9,000 Layoffs, Microsoft Boss Has Brutal Advice for Sacked Workers - Futurism](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rNTlxTW5NenlxcktqS3dJcEo0REJGTFRKZmwzdGxfYVdabUc3bDUyRGJvZmZaT3FjaVc4NS1QSVFmTC1mY3hkRmxnd0x6aDJSV1MzUUdqY0o?oc=5)
+1. [Here's Which Vehicles Offer iPhone Car Keys - MacRumors](https://news.google.com/rss/articles/CBMidEFVX3lxTE00UEhXQTJLekNWVDB0R2pPY0lmcndzYWtBM252YUctcEpkaTZrRmlBQTBfM01qZTlWTlZIWm1UbGZlOHJIcXlNYWRoSWdpM0x4anpoc2dGSEdLQnN6ZDZxVkdxYzJ2NFNPMGxrZlBJN29rVWR0?oc=5)
+2. [The Porsche 911 Club Coupe Is a Carrera T, But Rarer - Motor1.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE9sVGZpb0pwaDdPUXpMak5OaXY1d2ozU05RN3dXUHhrT2ZNRWtKekJxenhOUnhVOUxUWnJ5eEtHdUNxQkpXWXpXQjRiVEtTQUZfSFFBOTNxZE1XSGhsZHN4MVRFeXVOblZjcjNlZWxIYnlFLThwMjNPRnFJOWpqdw?oc=5)
+3. [Nintendo Switch 2 restocks live — retailers to check now - Tom's Guide](https://news.google.com/rss/articles/CBMihgFBVV95cUxQRW91ZWFsSk9SV0sxS2lXc0d0QTh4V2lqbWNJTWswTG96OFo5aE1IR1VOaWRiLTBHS3g0a1RkU0tvNUlfN1g5eXVUbFdzYUVmYl8yY04wNUdSc2E5R1ZIRWtjZ3BIVDVGRWNrU3FBclRGdmhYSnJzVkVTSnpWRFBlS3ZMSmxGQQ?oc=5)
+4. [Sony First-Party PS4 Exclusive Apparently Being Pulled From Sale - PlayStation LifeStyle](https://news.google.com/rss/articles/CBMingFBVV95cUxNSHMtM3BrdHIwSGFXQklRLTNQakFYMXNlRnN6TURJaVNkdnlFWkdEdjBkb3BlX3lKZlZkOHR6cUJaMkliLUFOS2xad1NzNjZBYzVTLUNIR19yRl85MHF6eUd1Y1FEQ3FXa3h2bGxGcHk1cFU4akRSVEdSWm1UQWZPNng3bjlocmN6VElOWTZDNUtIYTIxVllOVWYtVXRGZ9IBowFBVV95cUxPM01ab0JiRWdFWXZqanU3b3NXSWlRYzltR0dLX0Z4VWVQSWtsSUdHbWNUZ0RXM0JFNFdBbzZrRGpEcVdTSXhfdFBHMGhOZkd4MXJ1SHNPUWsxaF9fczBiTGZYVk54WmJjZFpPSWtRVVktQ3NlWi1JZkpHdm90RFhCNGMyXzlSTXBrV3QyeHU5eGVxMFBXVmlzU2otS2VsaTZHX3VZ?oc=5)
+5. [Broski reviews the Season 3 meta for Street Fighter 6 thus far after the first month - EventHubs](https://news.google.com/rss/articles/CBMieEFVX3lxTFBwajhCaWNJUTV1UVpzQld5aFotel9sS1ZmaEFTSDQwNTZ1LVpiSnNsNVVMamRFMVV5bFhlSTRyTDNxXzQtT1B6akcxQVVoWE50d1dkU1E3cC1SU2NvWXNna2VYQjBRU0JyTmc4NHA3YVNyY0piNE11Xw?oc=5)
 
 ## 🌍 World Headlines
 
-1. [Dalai Lama, a global symbol of Tibetan culture and resistance turns 90 - Euronews.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFNPWWlLck14T0lTZUVtQmlRWFYtcDZkeVJPajRiMDRWelRCRkhPZFlvcUJmWVJpY3pldW5CVVhRdk44ME5DZklqQW1HZTVvMXFpNVhXaG5UbU4zaENPUUlwMllGcDJTVk9fYTFOQzVTQ3dVbEs1ZFFIRmJsbHpoOWs5V3JZcnBoY2JSdWYxaWxFZUVHUU1ZQ280d1NLUGhwREthZFlTa3BYM3R4NWxUVWVuaTY5UkVSTVRaOTZXVFV5RVhwZUVlYQ?oc=5)
-2. [Iran’s supreme leader appears in public for first time since Israeli attack - Financial Times](https://news.google.com/rss/articles/CBMicEFVX3lxTE92MjF2S2lsRnN6enV1ZDYtX0kzZmpYVnM2bW9vcDVxY2JrdmdqZHlfZzgtTlRSWF9DVGlHZHNIMV9zMUFsY2piZHhReHNGd2NSTUk0SHNiYjVaNUV5Y1h4RXU3T3p3cDhIcmVsanlQSXA?oc=5)
-3. [Knives, bullets and thieves: the quest for food in Gaza - NPR](https://news.google.com/rss/articles/CBMib0FVX3lxTFA1aFNDS1l4a0RHY2FBRG80NGFIYnhxMUlRWHBSRVJBOXE1ejBialBydUd0Uk5DWF9HOTROMnBvTzRRMW5CUkJaR3k5YUczUFhZMjNMMDBYQmRCS0VtRnVFLUNXQ2NZamV5TkVoOXJEQQ?oc=5)
-4. [Netanyahu Heads to Washington as Trump Pushes for Israel-Hamas Cease-Fire - The New York Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxNVk9yQllkYkE2NDZON1FCc3lRRk1DM3FEOGhQMHEyVWh5SDgtUkNjUjFvZ1B2emtDWExnLVoyZWVsRURpZ25MeXpWWU13SGhxbjBNVjJ2dHd3OTYyQ2JZMHJBaG1PeDNtZVJUZjFfSjMzVGY5RHptYzZKSzdMUnkwMUJjVldWMUhXTElmMGhZcVhLdw?oc=5)
-5. [BRICS leaders meet in Rio to defend multilateralism 'under attack' - Reuters](https://news.google.com/rss/articles/CBMimAFBVV95cUxNME1DRkNzc0ZHeHpOODNrY05KU1A4VkhWaHh6b1FHTW5vem9ZWlN0bjlYNmk3V0xZUGlnclpwZTZiS0JIUUxjM1NhaHVMQjdSZUtUdW1hSE9lQVdsaS1wSnJyRE9EcDdmTDYzT0RQcTZrQm1nMnI4S0ZLSWdkd2RLbF9HTmQ0eEwybHdtcmcyRlk0dl8tUEZUOA?oc=5)
+1. [Knives, bullets and thieves: the quest for food in Gaza - NPR](https://news.google.com/rss/articles/CBMib0FVX3lxTFA1aFNDS1l4a0RHY2FBRG80NGFIYnhxMUlRWHBSRVJBOXE1ejBialBydUd0Uk5DWF9HOTROMnBvTzRRMW5CUkJaR3k5YUczUFhZMjNMMDBYQmRCS0VtRnVFLUNXQ2NZamV5TkVoOXJEQQ?oc=5)
+2. [BRICS group condemns increase of tariffs at summit in Brazil - Euronews.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQUVZeldwajNKWTk2aktUSzFjYkcyY0xOTnM1RVp5cEdTQVlZSDFWSFhrYm9DZmN5dUpOalJjTUdUaG9helVfSHhLZTJ0Nk9wdGtuZ0RUOTRTbnFxekV1MkNHdHgwQml6SFhlRVJIV3ZlOWxpRlJHbmVCbUtlTVZWMzM5a3UtMjRQYjFXZjVvd3hpMzhFYlNVaE04TERnUDd4dmJiR2xfTjNrLUhDVzY0aTNfUld5U1N1em1Sd2dtSFA?oc=5)
+3. [Israel's Netanyahu says he believes Trump can help seal ceasefire deal - Reuters](https://news.google.com/rss/articles/CBMipgFBVV95cUxNUVVtTWJvUzVpTUFwbDFDRkQ1eDdDRVBuNzJ4dVdWMUNHT3JrU1JaTEJ2TDU0R0wxZzVaVkNpYkxnSHNhMFN6dDhrbjBUSWlXelpabDUxLWRab0xYeVlRcklkQ3pIV0U2S3hQRGRBalo0VnFra1V1N2hlcFY1ME1WTHkzRGtuQW95TUZxcnBGSG1vOG5SNEh4ZUg3c2I4ZUFGX3UwdEtn?oc=5)
+4. [Israel carries out strikes on Houthi-controlled power station, ports across Yemen - The Times of Israel](https://news.google.com/rss/articles/CBMisAFBVV95cUxQaEpLZTh4S1lqOEF4VllXcmRkbWd4dkVITzFYQ19CMF9HUnZuRDE1LVliTEtpRHRiS180eDU5Z1FaRXFobXZRSU5aTVpSNnk2V01KTHZ6WjgtMFF2VEttaU5yQ19yTGR0UHhneDZlaDJOZE9RRWlqcndEQndBak5fU1o2SXdyMUxUbEhyeXFtc1BqS3RnWTdDcEdReks4T25GdWdlb3ExZEEwbHBTa3dhedIBtgFBVV95cUxNZGdKSy1SUmJvSThtcGtYdmhEVHg4SkNadzdmczF2LWY5cXl4aGpNNktoczBVaGtvNXJCNVgzc1Y0NEZ5YlpaZEc4Q2pFYU1Qa3FNSnFMWThvV2xsMm9UeVhBd3g2SUp6LU1Va0dDSXE5OUlfQkVXSV9uUVRpSkRnZWNYYkpzXzE5djF5NHh3RTF6Z2wtX3Nock1pay1wdExvd2FHVHNsSXQzdlBDMmkwVVU3Tl9UZw?oc=5)
+5. [Dalai Lama celebrates 90th birthday with thousands of devotees in India - Euronews.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFNPWWlLck14T0lTZUVtQmlRWFYtcDZkeVJPajRiMDRWelRCRkhPZFlvcUJmWVJpY3pldW5CVVhRdk44ME5DZklqQW1HZTVvMXFpNVhXaG5UbU4zaENPUUlwMllGcDJTVk9fYTFOQzVTQ3dVbEs1ZFFIRmJsbHpoOWs5V3JZcnBoY2JSdWYxaWxFZUVHUU1ZQ280d1NLUGhwREthZFlTa3BYM3R4NWxUVWVuaTY5UkVSTVRaOTZXVFV5RVhwZUVlYQ?oc=5)
 
 ## 💰 Business Insights
 
 
 ---
 
-<sub>Last updated at 08:37 PM · Generated daily by **DailyBuzz**</sub>
+<sub>Last updated at 06:52 AM · Generated daily by **DailyBuzz**</sub>
