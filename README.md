@@ -1,25 +1,25 @@
-# 📰 DailyBuzz – Sat, Jul 26, 2025
+# 📰 DailyBuzz – Sun, Jul 27, 2025
 
 ---
 ## 🚀 Top Technology News
 
-1. [Galaxy Z Flip 7, Fold 7, and Watch 8 hit the shelves with deals too good to pass up - PhoneArena](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSnlieU5lUVcxc0czVmlVb1ZKRURHcm11eWFCZDhaRVJNNmlGcUNLZGVzOXlzcXFtZDE4Uk81bDVuYkcwY0RGMkU5UkFUTmhMZzRmeVZ0ZDJMNlpKSzliX1FGWXpNSmUxWHhNYUJmUmtXMVF3U2RBR0NNZjFOWl9sRE9Ib0pQRkJzQTI3aTVUdEEteHRQU0hRRg?oc=5)
-2. [Galaxy Z Fold 7 is the world's thinnest foldable at 8.82mm, study finds Honor Magic V5 is 9.35mm - 9to5Google](https://news.google.com/rss/articles/CBMikwFBVV95cUxQRlJmVFBJV2YzYUlqRkJoR2pwbVIyV0o3LU1NZjdrUHBiVXp1RTMzck9aelpIVWJBcFYtTDNVTElOY2RRaWc0dFVEV2U5dUlxeEdSYlhTTWRlNmx1QkcwbTNwc2k3U3B5b0h1am5UVWx5Y2VUWXYtN3BmdnEwVVp3VFZOVVlxZVU1MVNvdFE5d2M4NDg?oc=5)
-3. [How to make your iPhone homescreen icons clear using iOS 26 - The Verge](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcnRhQXdlUEJJRC1hOFZ0U0k4cXZvZVN2dWE4T1VtTVVBZmhxekZrdDk1ZTNDQzZVQUV2eEcteHRsMjZfX0MxNUZzMDFKcWE4dFBOMWowWmJVNUtJaXZVdFBTOFhOOTF2U2JYUWZxbTRlQVJHX0FMY3doRVRQM1pVa1BmN1dWbV9zUmc?oc=5)
-4. [Fresh Pixel 10 leak shows off the series in more than just Moonstone - Android Authority](https://news.google.com/rss/articles/CBMie0FVX3lxTE1GWDcxTUVCMEtPRlkybkhmSDV6azZZSFM2b21JRFA3cm1nTlVvbnlXNlRmQV80Vm8zSzZmQVlaSnlpRG5NVlVNb3dHUVNwV29ZamVLbExSZ0FWcVJMRldzUFd6eWdaalBNaTF5dFZOWHk5OHZTVFVhektobw?oc=5)
-5. [Apple broadens App Store’s age-rating system - TechCrunch](https://news.google.com/rss/articles/CBMihAFBVV95cUxOc05mdmQ0RHhlRDFLOUNwR3VibERfWmVORjZMalRIMHdjbGhxSFhodzluREJ2YmhVTW5oQ1RQenUweHRERU5SUzROY3hXQ1FyY0FTVmRaZjlpYTB6Z0EtWnJ3SHptNncxX0ZSN1VnS3BNOHN0UmItZkRJdnlnUHNoQlMzZ0Y?oc=5)
+1. [Reliable leaker tips mind-blowing Samsung Galaxy S26 Edge battery size and other potential surprises - PhoneArena](https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlF5NWJKQjRUR3lVbUhFc2RyTnlta1JYNEYzN0psdDRyckNQa1hwcDlKcUc4ZUczNFBGdGlsVC1Vc3pnUjVCTVBpT3Q0aHVyQnVJVXZENmkzSklxb2xLVUxhcmM5WXUwRVpxYW84cGdkaG9aejg5Y3lvSFVQUk9xbnB6QmxIOE9ZSGNJVWdkWHBOZHRZTzJsd3I4RTA4R1hzeWt6eEpIQVM4OEpyczVDRWx3?oc=5)
+2. [OpenAI’s most capable AI model, GPT-5, may be coming in August - Ars Technica](https://news.google.com/rss/articles/CBMimwFBVV95cUxQRmpFaE9MaTRVUTZqajVJYkZmTTUxS0R5WEVBSkFxR050NWhoa01NNHptYzBKVk9nWElLWUtNdExLUGh4cGhqSHNjbmkxODQyQ1NaLUhkekM4cVFlZnpxa2JuWmNnQmNWekdJNHAzRjZoYTd1THFjcXRqZFZkaXVCWVd6bUpqelA5M0oyNEloMlpzb3V3dHBkc0d6TQ?oc=5)
+3. [Nintendo Switch 2 restocks live — Best Buy, Walmart, and more retailers all have stock now - Tom's Guide](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUTNSbE1MZEl0ZFlNbHlrdG9EOXZuYUUydzBzYXRPSVRTZXZJWHRyZkRaVnFvVzYySlB6UmV1aDBlODZBLWpXQ2prRVl0dENjd2NObEhtVkpYbEhhamNkSC1oUmFQV0tCNGRIT0tjdW9USEtvbzMzdnZyeWZ0S2hGS0Q2eDhJX1BkMm54eDE4N1NUS0o3MVE?oc=5)
+4. [iOS 26 Public Beta: Check Out What's New on Your iPhone Lock Screen - MacRumors](https://news.google.com/rss/articles/CBMif0FVX3lxTE80SkNnZ1dhVEhZVGU3eWZLZktxNTF5dWRqSmdtTGtpSGhpRVlkcnFWYXl2V3MtRDcxRGgzMGhvLV9qM2FGNk5sVWRnOTZ0cTZ2MTE3bUMzRGJEaG9zbWxQbVlxRktRZFIzcHc5X1FBT214Mlo5Zlk4V3dnVHRSd0k?oc=5)
+5. [‘Starting Today’—Microsoft Confirms Free Windows Update - Forbes](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWFA0TXY2ZmpqTWtrZ3RkaURDUjBvc1ZnRWctUzdpUWJXWld5RTdVOXF2bXFyZXVCOVFCUGV1dTdCbXNKelpyYjNSVXh1V3RONC0tZ3hDZ0dXd0VmWEMtWHFZQTZvbjc0cmZPcHBJZUxubkxPcEhyaXZiTFhNdzlfa256V3FRY2Z3b19qbHVpUFNPQmdBYTkzeE82Qm92Wm1PMjhmenVoRS0?oc=5)
 
 ## 🌍 World Headlines
 
-1. [Amid starvation scenes in Gaza, Trump administration hardens tone on Hamas - washingtonpost.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxPVjRBREdzMnVUQVc1X0N1b2lGXzBCaXRtbUs1MUYyVHBNVDlnY2ZjTVJiVFhDemM5eFJMYWppMDh1VHEyNmJqS1M3cFl4aUM2TkNwUkw5SVZUSXBId29DSWFIbVB5X3hWeGFuZmQ1bkZoSVdseUtUNTBWb0YwUVduNDhyV2I2NGwwbUhzRnNlWXlXWnBTQXFaSmtR?oc=5)
-2. [Merz and Starmer weigh Israel action after Macron turns up heat - politico.eu](https://news.google.com/rss/articles/CBMimgFBVV95cUxOUm1JVlZORzhCeHJTLWxnMEYyUkdEZmhrTE9fWkt0OHVsX3ItSy1CSFBSVm1Ic1NCTVNhMlM4eDRkV2dzV0diMGRMbkRjbGpoSHRRZlkyS1daNHo2YUdKd0FlYlc2VERLTDJGSXdoYlExOG54QWpoNXB1dXAyS1FJQ2ZJZ3g0TVJrMVBwYk1FRWNVOEw2QzhjS09n?oc=5)
-3. [Photos from fighting along the Thailand-Cambodia border - AP News](https://news.google.com/rss/articles/CBMipgFBVV95cUxOQkh1bVdZX212LWJyLTVxSGcwOWp2NHRnMkhld3JhLUg5QXE2VnBHamhRTFVxWF9MUTBiU09NNmRua1dDWDF0cFdoTVhNdE5qcl8tWmVmSkR0dmw3ZnhhRmF1NUVrTzV5Z3k1VEZvR0lDeFRUQzM4Z0N4aXlnVHlpekFJOTdLYTk0UDI5aWZVbVd4QlBvOXY2ekxHa2w4eXBBb2Y5SEln?oc=5)
-4. [Taiwan’s Mass Recall Vote Tests Its Democracy, and China’s Nerves - The New York Times](https://news.google.com/rss/articles/CBMie0FVX3lxTE9vbVNIbVRQQUdNT3ZKNTZxdUNYTGZEdzIzVm5IRFktc2lzQmZhenFBbWRFSWtyUU1VN1RCNHZVZW9Jc1dRSVNhazNIYWU3ZmpjOW5VLWdqZ1VVdXFCLUNKUVFkNFIyVkhQUjg5aE9OUXRYdkRFb3drUzQ3QQ?oc=5)
-5. [Ukraine anti-corruption chief says his agency faces 'dirty information campaign' - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxPLVNaLVcyWGR0Mjc4Uk1wdm1IWFE2TUJFS3AzSFNlSjdpYlRDQm9mLThhSGpFdW94VndEVkhnN0ZsYXZaRklQbVFBVERaUXRtM2VPdEZ5VE1mS0pSalp3WXRyRGtFX3pxWXk4eFVBRHI5Q29tZ1NOWld3UEJxYUpmOWF2c0tqWTU1azVaQ3p0dDRfVlA4dDlMTVJ3REYybms0QkZhZGF2SUZVeVZNdF9JSDh3R1Z1OUkxRzhCSjdpQ0xvVVA0T1E?oc=5)
+1. [Food airdropped into Gaza as starvation deaths rise - The Washington Post](https://news.google.com/rss/articles/CBMikAFBVV95cUxQYWxWWGV2OEZMWGxOSHJZVlFiNXJrUl9CbTRHMGlyc2NEQW9JS2FETEhFTHdzTmRWUDVtVFgwWXhKZzhWVWdLd0JoQ0RHVTd4M3prbGxlR0l5ZjhMSGRYd3VWeVcyZnJRUG12VzN1cTJNTUxCcXBETHZJRk9wbjlyWEFmcXV0MEI1cU5acjR0LVE?oc=5)
+2. [Trump calls on Thailand and Cambodia to cease fire and talk trade - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yVmdhSk5oNEctNFdqTFoxRXktN09idl9FRmQ1QVNJdEoyVEEwbzAxWGpZby1WWjN0M3M1QkpyRWkyUWQtYkVjaXk4UWp5NUo2cl8waGJMTmZxZ9IBX0FVX3lxTFAwWFpSQjAzOS1ybzg4YnhXaTFENzl4aHplR0VBaE5GY1FGYWREZlliVmRKZ21xVDR0YWRUUGZaR3lvOG15WFZWeENyaXdGSG5DTC1wV1FTV2FWWkloSDJB?oc=5)
+3. [Taiwan move to recall opposition lawmakers fails - Reuters](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMG54dEFjQVlyNXBKQ25UaExBR25xTW9PbS1TUDNUWEtYY1Mza0xGNG9mMVVtQW5uc1kxUnNkOWM4VGpxZlpEYmYzcUdkd1hDMzRKUVV4SXY4aUxXSXpncVJwVE5sOUEta283RFJtVnU0SWVFeXpyMi1UdDhITlFKMWp6Q3JrYUxCMndCNG5wbGF5eWFKWDdmRQ?oc=5)
+4. [Early recognition of Palestine could be ‘counterproductive,’ Italy’s Meloni says - politico.eu](https://news.google.com/rss/articles/CBMimAFBVV95cUxNTkRnRU1kTm85QWprZmM3SUs0U2pCeHViZTVXcF9nLVJrYVk3aVNoTkFmdDBFLXNOdmdTeHVJeHRoODNVdUZCZW9lajV2bFNJVXhnekZKbXhYUE1ieTI2LXB2S3Q3MGNnazRUOUUwT0xjYzZpX1RTNHhJaU5YWHVoMG5TdUd4STlTUDFybGdGSlMxU0ZaYlh5Vw?oc=5)
+5. [No Proof Hamas Routinely Stole U.N. Aid, Israeli Military Officials Say - The New York Times](https://news.google.com/rss/articles/CBMigAFBVV95cUxQc0g4bFZERzBtZEF6Wnprc3NjVE1RUHhEX0xjN3RaSVZvM1NxRllmQ29hQTdqNlFmSUtFSWJYZFlYV3VuSmRBVDJNR2JtQndvdmp6QnVIRVZGWUYxdlRWNUZ6Uk00WXBsMHk4N1RFUDR4eWhSZ2Y0RjFIMGMzZHZ5Sw?oc=5)
 
 ## 💰 Business Insights
 
 
 ---
 
-<sub>Last updated at 06:14 AM · Generated daily by **DailyBuzz**</sub>
+<sub>Last updated at 06:00 AM · Generated daily by **DailyBuzz**</sub>
